@@ -9,7 +9,7 @@ Created on Fri Jul 22 22:47:57 2022
 import googlemaps
 import pandas as pd
 
-my_key = "AIzaSyArsZb7nmJZEDr1MwVgrBAxU9LZu4QVkeg"
+my_key = "-"
 
 maps = googlemaps.Client(key=my_key)
 
